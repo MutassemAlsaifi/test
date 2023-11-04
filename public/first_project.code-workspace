@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "D:/laravel/first_project"
+		},
+		{
+			"path": "D:/laravel/routes"
+		},
+		{
+			"path": "../../../../Users/m.s.i/Desktop/projects/Nippy"
+		},
+		{
+			"path": "../../../../Users/m.s.i/Desktop/UIC"
+		},
+		{
+			"path": "../../app1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UIC"
+	}
+}
